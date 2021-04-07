@@ -38,10 +38,14 @@ public class MainActivity extends AppCompatActivity {
                 Email = edEmail.getText().toString();
                 password = edPwd.getText().toString();
 
-                if (Email.equals("unang") && password.equals("09092000"))
+                if (Email.equals("unang") && password.equals("123"))
                 {
                    Toast.makeText(MainActivity.this, "Login Berhasil",Toast.LENGTH_SHORT).show();
+
+                    Intent i = new Intent(getApplicationContext(),Listview.class);
+                    startActivity(i);
                 }
+
                 else if (!Email.equals("unang") && password.equals("09092000"))
                 {
                     edEmail.requestFocus();
