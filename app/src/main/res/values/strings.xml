@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="tAptk">APOTEK SEHAT</string>
+    <string name="eEmail">Email</string>
+    <string name="ePwd">Password</string>
+    <string name="btn">MASUK</string>
+    <string name="signup">Belum Terdaftar</string>
+    <string name="pndftrn">Pendaftaran</string>
+    <string name="msknnama">Masukkan Nama</string>
+    <string name="msknalmt">Masukkan Alamat</string>
+    <string name="Rlk">Laki-Laki</string>
+    <string name="Rpr">Perempuan</string>
+    <string name="tjenisklmn">Jenis Kelamin</string>
+    <string name="tagama">Agama</string>
+    <string name="Islam">Islam</string>
+    <string name="Budha">Budha</string>
+    <string name="Hindu">Hindu</string>
+    <string name="Konghucu">Konghucu</string>
+    <string name="Kristen">Kristen</string>
+    <string name="Atheis">Atheis</string>
+    <string name="Katholik">Katholik</string>
+    <string name="edCancel">Cancel</string>
+    <string name="edDaftar">Daftar</string>
+    <string name="tvkontak">Daftar Kontak</string>
+    <string name="edmsknnama">Masukkan Nama</string>
+    <string name="edmasknpwd">Masukkan Password</string>
+    <string name="erepass">Masukkan Password Kembali</string>
+    <string name="dtlkntk">Detail Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor Telephone</string>
+    <string name="edmskneml">Masukkan Email</string>
+</resources>
